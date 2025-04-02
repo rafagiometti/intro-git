@@ -3,3 +3,7 @@ git remote add origin 'link do github' -> conectar repositório ao GitHub
 git add . -> cria os arquivos que preciso
 git commit -m "mensagem de commit" -> cria mensagem de commit
 git push origin main -> envia para o GitHub 
+
+agora estamos na branch nova
+
+git checkout -b dev -> troca a minha branch 
